@@ -1,4 +1,5 @@
 # Web Scraping avec Selenium en utilisant Python
+
 # Description
 Ce projet est un exemple de web scraping en utilisant la bibliothèque Python Selenium. Le code utilise Selenium pour ouvrir une page web, interagir avec elle et extraire des informations.
 
